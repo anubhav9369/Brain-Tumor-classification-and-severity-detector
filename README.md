@@ -81,7 +81,7 @@ Classification
 Severity level
 Explanation
 
-🧪 Tech Stack
+# 🧪 Tech Stack
 
 Python
 Scikit-learn (Random Forest)
