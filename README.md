@@ -11,9 +11,13 @@ Severity Detection → Low, Mild, High, No Tumor
 
 #Demo
 
-<img width="976" height="580" alt="image" src="https://github.com/user-attachments/assets/41a8d4ef-bd91-4a85-8132-03194a6c5fd0" />
+<img width="360" height="213" alt="image" src="https://github.com/user-attachments/assets/31c49a70-7411-43e8-8aa4-40c76b0c9ecf" />
 
-<img width="976" height="580" alt="image" src="https://github.com/user-attachments/assets/138a8c39-bc75-4187-b0b5-ce5d8976d7ea" />
+<img width="360" height="194" alt="image" src="https://github.com/user-attachments/assets/88ce3eec-b615-4a08-97e2-bb1e23df5180" />
+
+<img width="360" height="212" alt="image" src="https://github.com/user-attachments/assets/c855b71d-d85d-49d4-ad53-21caa3e3bf62" />
+
+<img width="360" height="214" alt="image" src="https://github.com/user-attachments/assets/a4227252-5529-4e4b-ba88-ad898a98c8c9" />
 
 
 
