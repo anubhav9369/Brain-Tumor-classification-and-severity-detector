@@ -9,7 +9,7 @@ The system performs two tasks:
 Tumor Classification → Glioma, Meningioma, Pituitary, No Tumor
 Severity Detection → Low, Mild, High, No Tumor
 
-#Demo
+# Demo
 
 <img width="360" height="213" alt="image" src="https://github.com/user-attachments/assets/31c49a70-7411-43e8-8aa4-40c76b0c9ecf" />
 
